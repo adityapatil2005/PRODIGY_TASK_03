@@ -69,5 +69,5 @@ This project demonstrates a complete **end-to-end ML workflow** including:
 ### 1. Install Dependencies
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn jupyter
-git clone https://github.com/YOUR_USERNAME/PRODIGY_DS_03.git
+git clonehttps://github.com/adityapatil2005/PRODIGY_TASK_03/tree/main
 cd PRODIGY_DS_03
