@@ -32,7 +32,11 @@ This project demonstrates a complete **end-to-end ML workflow** including:
 - **Language:** Python  
 - **Libraries:** Pandas, NumPy, Scikit-learn  
 - **Visualization:** Matplotlib, Seaborn  
-- **Environment:** Jupyter Notebook  
+- **Environment:** Jupyter Notebook
+
+## viualization 
+<img width="1449" height="687" alt="Screenshot 2026-01-31 214036" src="https://github.com/user-attachments/assets/c787a44e-37e8-4fcc-a03e-3c5f53206a5c" />
+
 
 ---
 
